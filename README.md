@@ -12,7 +12,7 @@ The Ford GoBike dataset contains over 1.8 million entries, offering valuable ins
 3. Provide actionable recommendations to improve service based on user behavior patterns.
 
 ### Key Visualizations and Findings
-1. **Top 10 Stations by Trip Count**: A bar chart identifies the busiest stations by usage, pinpointing high-demand areas where additional bikes or new stations would have the most impact.
+1. **Top 10 Stations by Trip Count**: A bar chart identifies the busiest stations by usage, pinpointing high-demand areas where  bikes or new stations would have the most impact.
 2. **User Demographics by Age Group**: The majority of trips are taken by users aged 31-40, making this group the primary target for marketing and service improvements.
 3. **Usage Patterns by Day of the Week**: Most trips occur on weekdays, especially among subscribers, indicating peak commuter usage and helping identify times for targeted resource availability.
 
