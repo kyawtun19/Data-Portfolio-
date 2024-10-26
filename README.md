@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of the Ford GoBike bike-sharing d
 
 The Ford GoBike dataset contains over 1.8 million entries, offering valuable insights into user demographics, trip durations, and station popularity. The goals of this analysis are to:
 1. Identify key trends in user demographics and trip durations.
-2. Determine the busiest stations to target for resource allocation.
+2. Determine the busiest stations to target for resource distribution.
 3. Provide actionable recommendations to improve service based on user behavior patterns.
 
 ### Key Visualizations and Findings
