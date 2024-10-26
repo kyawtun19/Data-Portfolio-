@@ -16,8 +16,8 @@ The Ford GoBike dataset contains over 1.8 million entries, offering valuable ins
 2. **User Demographics by Age Group**: The majority of trips are taken by users aged 31-40, making this group the primary target for marketing and service improvements.
 3. **Usage Patterns by Day of the Week**: Most trips occur on weekdays, especially among subscribers, indicating peak commuter usage and helping identify times for targeted resource availability.
 
-(https://github.com/user-attachments/assets/05dbc650-b850-45df-be74-5232d4ee3fe5)
 
+![Screenshot 2024-10-26 191430](https://github.com/user-attachments/assets/79a6ae61-2e4e-4915-a397-45fdb63fb907)
 
 ![Screenshot 2024-10-26 192033](https://github.com/user-attachments/assets/0ed0a2d3-843b-4097-8dfe-86c891d9c41d)
 
