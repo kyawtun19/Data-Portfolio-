@@ -19,11 +19,11 @@ The Ford GoBike dataset contains over 1.8 million entries, offering valuable ins
 ![Top Stations Visualization]![Screenshot 2024-10-26 191430](https://github.com/user-attachments/assets/05dbc650-b850-45df-be74-5232d4ee3fe5)
 
 
-![User Demographics Visualization](path_to_screenshot_2)
-_Screenshot suggestion: A bar chart displaying user counts by age group._
+![User Demographics Visualization]
+![Screenshot 2024-10-26 192033](https://github.com/user-attachments/assets/0ed0a2d3-843b-4097-8dfe-86c891d9c41d)
 
-![Daily Usage Patterns Visualization](path_to_screenshot_3)
-_Screenshot suggestion: A bar chart showing trips by day of the week._
+![Daily Usage Patterns Visualization]
+![Screenshot 2024-10-26 192319](https://github.com/user-attachments/assets/8556e555-d53c-4214-8e31-1ed62bef05b8)
 
 ### Summary of Insights and Recommendations
 
