@@ -17,7 +17,7 @@ The Ford GoBike dataset contains over 1.8 million entries, offering valuable ins
 3. **Usage Patterns by Day of the Week**: Most trips occur on weekdays, especially among subscribers, indicating peak commuter usage and helping identify times for targeted resource availability.
 
 ![Top Stations Visualization]
-![image](https://github.com/user-attachments/assets/1c472209-03be-42a8-9a89-e9ced3b9998c)
+![Screenshot 2024-10-26 191430](https://github.com/user-attachments/assets/05dbc650-b850-45df-be74-5232d4ee3fe5)
 
 
 ![User Demographics Visualization](path_to_screenshot_2)
